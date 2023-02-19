@@ -1,0 +1,6 @@
+rg_name = "rg-dev-sample-001"
+subnet_ids = {
+  "subnet_001" = "/subscriptions/dummy-dummy-dummy-dummy-dummye5404/resourceGroups/rg-dev-sample-001/providers/Microsoft.Network/virtualNetworks/vnet-dev-sample-001/subnets/subnet-dev-001"
+  "subnet_002" = "/subscriptions/dummy-dummy-dummy-dummy-dummye5404/resourceGroups/rg-dev-sample-001/providers/Microsoft.Network/virtualNetworks/vnet-dev-sample-001/subnets/subnet-dev-002"
+}
+vnet_id = "/subscriptions/dummy-dummy-dummy-dummy-dummye5404/resourceGroups/rg-dev-sample-001/providers/Microsoft.Network/virtualNetworks/vnet-dev-sample-001"

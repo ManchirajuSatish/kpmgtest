@@ -1,0 +1,1 @@
+rg_id = "/subscriptions/bf51af45-a47d-46bf-a294-8f53a8ae5404/resourceGroups/rg-satish-dev-001"
